@@ -55,7 +55,7 @@ h3 {
 }
 
 .parag {
-    width: 70%;
+    width: 50%;
 }
 
 .tree {
@@ -115,4 +115,10 @@ label {
     border: solid 1px #aaa;
     border-radius: 8px;
     pointer-events: none;
+}
+
+.footer {
+    background-color: #525095;
+    color: #fff;
+    text-align: center;
 }
